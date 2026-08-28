@@ -176,6 +176,54 @@ A sleek, lightweight, and modern web application designed for seamless real-time
 ---
 ---
 
-## 4. WhatsappBulk (AI Dispatch)
-- **Tech Stack:** Python, Retrieval-Augmented Generation (RAG), WhatsApp Business API
-- **Description:** An AI-powered announcement dispatch platform utilizing RAG. It dispatches announcements to 5,000+ citizens and assists residents in navigating complex administrative procedures automatically via WhatsApp.
+## 4. WhatsApp Bulk - Multi-Channel Alert & Broadcasting Platform for Douala
+
+A powerful, intuitive, and modern web application designed for streamlined mass alerting and message broadcasting across WhatsApp and Telegram. Built to make community communication, public announcements, and urgent updates fast, reliable, and accessible directly from your browser.
+
+---
+
+## About the Project
+
+**WhatsApp Bulk** is an all-in-one messaging and alerting solution primarily created to inform and alert the **Douala community** (Communauté Urbaine de Douala) about important public notices, civic updates, community announcements, and local events. By enabling simultaneous multi-channel communication across both **WhatsApp** and **Telegram**, the platform ensures critical information reaches citizens, partners, and local stakeholders instantly without friction or complicated configurations.
+
+---
+
+## Key Features
+
+- **Multi-Channel Alerting (WhatsApp & Telegram)**  
+  Broadcast public announcements and urgent alerts simultaneously across WhatsApp and Telegram to maximize community reach across Douala.
+
+- **Smart Bulk Broadcasting**  
+  Send personalized high-volume messages across your contact lists using dynamic tags and custom variables for tailored communication.
+
+- **Rich Media & Document Attachments**  
+  Enhance community alerts by seamlessly attaching official notices, event flyers, images, and PDF reports directly to your broadcasts.
+
+- **AI-Powered Message Assistant**  
+  Draft, refine, and optimize community alert notices and announcements instantly with built-in artificial intelligence assistance.
+
+- **Intelligent Contact & Category Management**  
+  Organize citizens, partners, and local representatives into custom categories, import bulk contact lists, and quickly filter or search your directory.
+
+- **Telegram Assistant & Knowledge Base**  
+  Equip the Douala community with an integrated Telegram bot capable of automatically answering inquiries using an uploaded knowledge base.
+
+- **Real-Time Analytics & Delivery Tracking**  
+  Monitor alert delivery status, sent volumes, category statistics, and historical logs with interactive dashboards.
+
+- **Intelligent Dispatch Controls & Safety Delays**  
+  Protect broadcast delivery with customizable pacing intervals and automated anti-ban delay algorithms.
+
+- **Modern & Responsive Interface**  
+  Designed with an elegant dark theme, ambient visual accents, and a mobile-friendly layout for effortless management anywhere.
+
+---
+
+## How It Works
+
+1. **Organize Community Contacts**: Add individual citizens or import recipient lists into dedicated categories and groups.
+2. **Draft Your Alert**: Compose your message, insert personalization tags, attach relevant documents or flyers, and use AI tools to refine the copy.
+3. **Broadcast via WhatsApp & Telegram**: Select your target channels, set your sending intervals, and launch your alerts with live status tracking.
+4. **Review & Monitor**: Track message delivery history, view analytics, and assess campaign reach across the Douala community.
+
+---
