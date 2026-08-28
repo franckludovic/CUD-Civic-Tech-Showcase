@@ -6,7 +6,7 @@
 I led the development of multiple citizen-facing civic applications for local government digital services in Douala, Cameroon. These platforms were built to digitize administrative procedures, improve waste management, and enhance civic safety.
 
 ---
----
+<br />
 
 
 ## 1. CleanDP (Waste Management Platform)
@@ -65,8 +65,8 @@ By turning every citizen into an active guardian of their environment and provid
 
 
 ---
----
 
+<br />
 
 ## 2. Douala Bâti Alert - Urban Risk & Citizen Reporting Platform
 
@@ -119,8 +119,8 @@ A sleek, lightweight, and modern web application developed for the **Urban Commu
 
 
 ---
----
 
+<br />
 
 ## 3. CUD Streaming App : Promote 2026 - Live Video Streaming Platform
 
@@ -174,7 +174,8 @@ A sleek, lightweight, and modern web application designed for seamless real-time
 
 
 ---
----
+
+<br />
 
 ## 4. WhatsApp Bulk - Multi-Channel Alert & Broadcasting Platform for Douala
 
