@@ -229,7 +229,8 @@ A powerful, intuitive, and modern web application designed for streamlined mass 
 ---
 
 <p align="center">
-  <img width="625" height="1280" alt="image" src="https://github.com/user-attachments/assets/4ff4987a-5eb7-4bc2-9c61-6d5b7741b31d" />
-  <img width="619" height="1280" alt="image" src="https://github.com/user-attachments/assets/14f688c5-68fd-4527-a4a4-1c238822e0d9" />
+  <img src="https://github.com/user-attachments/assets/4ff4987a-5eb7-4bc2-9c61-6d5b7741b31d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/14f688c5-68fd-4527-a4a4-1c238822e0d9" width="45%" />
 </p>
+
 
