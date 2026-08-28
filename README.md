@@ -54,6 +54,9 @@ By turning every citizen into an active guardian of their environment and provid
 * Reduce plastic and solid waste accumulation in streets and drains.
 * Prevent urban flooding caused by clogged waterways during rainy seasons.
 * Foster a strong culture of shared responsibility and civic pride across Douala.
+  
+---
+**Live Demo:** [https://clean-dp.vercel.app/](https://clean-dp.vercel.app/)
 
 <img width="1358" height="619" alt="image" src="https://github.com/user-attachments/assets/68e72645-ddec-4407-a6bf-05b2abe98a35" />
 
@@ -66,7 +69,7 @@ By turning every citizen into an active guardian of their environment and provid
 - **Description:** A real-time civic safety platform with geolocated structural alerts. It includes a centralized admin dashboard for municipal agents to track and respond to emergencies, drastically reducing response times.
 
 ---
-**Live Demo:** [https://clean-dp.vercel.app/](https://clean-dp.vercel.app/)
+
 <img width="1358" height="2131" alt="image" src="https://github.com/user-attachments/assets/510fcbb8-b451-4d6e-8be8-41c99557bb72" />
 
 
@@ -118,6 +121,7 @@ A sleek, lightweight, and modern web application designed for seamless real-time
 
 ---
 **Live Demo:** [https://streaming-app-cud.vercel.app/](https://streaming-app-cud.vercel.app/)
+
 <img width="1358" height="636" alt="image" src="https://github.com/user-attachments/assets/1162315f-4038-44f3-a343-78f9fa8f2e16" />
 
 
