@@ -8,9 +8,52 @@ I led the development of multiple citizen-facing civic applications for local go
 ---
 
 ## 1. CleanDP (Waste Management Platform)
-- **Live Demo:** [https://clean-dp.vercel.app/](https://clean-dp.vercel.app/)
-- **Tech Stack:** React, Next.js
-- **Description:** A civic web application enabling citizens to report waste issues and track over 20 scheduled waste collection routes in real-time. 
+
+## About the Project
+
+**CleanDP** (*Douala Propre*) is a civic-tech initiative born out of a critical need: **transforming how waste is managed, reported, and cleared across the economic capital of Cameroon**.
+
+In a rapidly growing metropolis like Douala, urban waste management is one of the most pressing daily challenges. Piles of uncollected garbage, overflowing community bins, and illegal dumpsites (*dépôts sauvages*) create severe health hazards, block water channels, and diminish the quality of life for residents.
+
+CleanDP was created to bridge the communication gap between the **citizens of Douala** and the **municipal sanitation authorities (Communauté Urbaine de Douala - CUD)**. It replaces uncertainty with real-time transparency, empowering everyday residents to take part in keeping their city clean.
+
+---
+
+## What CleanDP Was Geared Towards
+
+The primary mission of CleanDP is centered on three fundamental goals:
+
+1. **Citizen Empowerment**: Giving every resident an easy, direct way to report waste issues in their neighborhood using their phone or computer-with exact locations and photos.
+2. **Municipal Efficiency**: Equipping city sanitation teams with a clear overview of reported issues and active collection vehicles, helping them prioritize interventions where they are needed most.
+3. **Transparency & Awareness**: Helping citizens locate nearby official collection bins and stay informed about collection operations happening near them.
+
+---
+
+## How the System Works
+
+CleanDP brings together two interconnected experiences:
+
+### For the Citizens (*Douala Population*)
+* **Quick Incident Reporting**: Residents can instantly flag overflowing bins, roadside dumps, or sanitation hazards by pinpointing their location and attaching a photo.
+* **Find Nearest Bins (*Bacs Proches*)**: Helps residents locate official municipal waste disposal points closest to their current position to encourage proper waste disposal.
+* **Proximity Alerts**: Keeps neighborhood residents informed about collection trucks and sanitation activities operating in their area.
+
+### For City Management (*CUD Administration*)
+* **Centralized Incident Dashboard**: Municipal officers receive real-time alerts submitted by citizens across all districts (Akwa, Bonanjo, Deido, Bonamoussadi, Bépanda, Bassa, Bonabéri, and more).
+* **Fleet Dispatch & Monitoring**: Enables authorities to dispatch collection trucks to reported hotspots and monitor route progress across the city map.
+* **Depot & Infrastructure Tracking**: Allows the city to catalog and manage the locations of public collection bins throughout Douala.
+* **Resolution History**: Keeps track of resolved complaints to measure response times and identify recurring trouble spots.
+
+---
+
+## The Bigger Picture & Impact
+
+CleanDP is more than just a reporting tool; it is a movement towards **participatory urban governance**. 
+
+By turning every citizen into an active guardian of their environment and providing municipal teams with clear visibility, CleanDP aims to:
+* Reduce plastic and solid waste accumulation in streets and drains.
+* Prevent urban flooding caused by clogged waterways during rainy seasons.
+* Foster a strong culture of shared responsibility and civic pride across Douala.
 
 <img width="1358" height="619" alt="image" src="https://github.com/user-attachments/assets/68e72645-ddec-4407-a6bf-05b2abe98a35" />
 
@@ -22,6 +65,8 @@ I led the development of multiple citizen-facing civic applications for local go
 - **Tech Stack:** React, Next.js
 - **Description:** A real-time civic safety platform with geolocated structural alerts. It includes a centralized admin dashboard for municipal agents to track and respond to emergencies, drastically reducing response times.
 
+---
+**Live Demo:** [https://clean-dp.vercel.app/](https://clean-dp.vercel.app/)
 <img width="1358" height="2131" alt="image" src="https://github.com/user-attachments/assets/510fcbb8-b451-4d6e-8be8-41c99557bb72" />
 
 
@@ -72,8 +117,7 @@ A sleek, lightweight, and modern web application designed for seamless real-time
 4. **Record & Save**: Use the recording button at any point to capture important moments from the broadcast.
 
 ---
-- **Live Demo:** [https://streaming-app-cud.vercel.app/](https://streaming-app-cud.vercel.app/)
-
+**Live Demo:** [https://streaming-app-cud.vercel.app/](https://streaming-app-cud.vercel.app/)
 <img width="1358" height="636" alt="image" src="https://github.com/user-attachments/assets/1162315f-4038-44f3-a343-78f9fa8f2e16" />
 
 
