@@ -1,7 +1,10 @@
+<div align="center">
 # Douala City Council (CUD) - Civic-Tech Ecosystem
 
 **Note:** The source code for these applications is private due to government confidentiality and intellectual property agreements. This repository serves as a portfolio showcase and architectural overview of the platforms I developed as a Lead Freelance Software Engineer for the local government.
 
+</div>
+  
 ## Overview
 I led the development of multiple citizen-facing civic applications for local government digital services in Douala, Cameroon. These platforms were built to digitize administrative procedures, improve waste management, and enhance civic safety.
 
