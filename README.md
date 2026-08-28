@@ -2,7 +2,7 @@
 # Douala City Council (CUD) - Civic-Tech Ecosystem
 
 <div align="center">
-**Note:** The source code for these applications is private due to government confidentiality and intellectual property agreements. This repository serves as a portfolio showcase and architectural overview of the platforms I developed as a Lead Freelance Software Engineer for the local government.
+Note: The source code for these applications is private due to government confidentiality and intellectual property agreements. This repository serves as a portfolio showcase and architectural overview of the platforms I developed as a Lead Freelance Software Engineer for the local government.
 
 </div>
   
