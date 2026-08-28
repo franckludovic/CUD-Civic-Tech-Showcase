@@ -63,12 +63,52 @@ By turning every citizen into an active guardian of their environment and provid
 
 ---
 
-## 2. Douala Bâti Alert (Civic Safety)
-- **Live Demo:** [https://douala-bati-alert.vercel.app/](https://douala-bati-alert.vercel.app/)
-- **Tech Stack:** React, Next.js
-- **Description:** A real-time civic safety platform with geolocated structural alerts. It includes a centralized admin dashboard for municipal agents to track and respond to emergencies, drastically reducing response times.
+## 2. Douala Bâti Alert - Urban Risk & Citizen Reporting Platform
+
+A sleek, lightweight, and modern web application developed for the **Urban Community of Douala (Communauté Urbaine de Douala — CUD)** to empower citizens and municipal authorities in reporting, tracking, and mitigating building safety risks, illegal constructions, and urban hazards in real time.
 
 ---
+
+## About the Project
+
+**Douala Bâti Alert** is an interactive civic reporting and municipal response solution designed to protect lives and improve urban resilience across the city of Douala. Whether alerting authorities about dangerous structural cracks, unauthorized building sites lacking permits, soil subsidence, structural creaking, or illegal waste deposits obstructing waterways and drains, this platform enables direct, anonymous, and geolocated reporting without requiring any app installations or complicated setups.
+
+---
+
+## Key Features
+
+- **One-Click Incident Reporting**  
+  Quickly submit reports with categorized hazard types (structural risks, building cracks, missing permits, ground subsidence, illegal waste), photo evidence, and automatic GPS or manual map geolocation.
+
+- **Interactive Hazard Map**  
+  Explore reported incidents across Douala's five boroughs (*Douala 1er to 5e*) on an interactive Leaflet map featuring real-time cluster markers, urgency level indicators, and detailed incident popups.
+
+- **Direct Emergency & WhatsApp Hotlines**  
+  Direct one-tap access to the toll-free municipal emergency number (**8180**), Fire Brigade (**118**), and official WhatsApp channels dedicated to building safety (**695 26 26 26**) and sanitation alerts (**695 14 25 45**).
+
+- **Citizen Tracking Portal ("Espace Citoyen")**  
+  Citizens can easily track the investigation and resolution progress of their submitted alerts in real time using their unique reference code.
+
+- **Municipal Administration Dashboard**  
+  A secured dashboard for municipal agents, civil protection teams, and urban inspectors to analyze statistics, update report statuses (*En cours, Traité, Urgent, Fermé*), and dispatch interventions.
+
+- **Modern & Responsive Interface**  
+  Built with an intuitive, mobile-first design featuring smooth animations, accessible navigation, and full **Dark / Light theme** switching.
+
+- **Cloud Storage & Real-Time Sync**  
+  Seamlessly powered by Supabase for high-performance PostgreSQL data storage and secure image hosting for visual evidence.
+
+---
+
+## How It Works
+
+1. **Submit an Alert**: Click **"Signaler" (Report)** to describe the risk, attach photos, set the urgency level, and pin the exact location.
+2. **Track Status**: Save your report ID to follow the investigation and resolution milestones in **"Espace citoyen" (Citizen Space)**.
+3. **Explore the Map**: Visit **"Carte" (Map)** to view active community reports and safety interventions across your neighborhood.
+4. **Emergency Escalation**: For imminent danger or immediate life-threatening structural collapse, immediately dial **8180** or connect via **WhatsApp officiel**.
+
+---
+**Live Demo:** [https://douala-bati-alert.vercel.app/](https://douala-bati-alert.vercel.app/)
 
 <img width="1358" height="2131" alt="image" src="https://github.com/user-attachments/assets/510fcbb8-b451-4d6e-8be8-41c99557bb72" />
 
